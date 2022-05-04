@@ -29,7 +29,7 @@ This is a **x64 executable / DLL**, you can't compile this project in x86, we ar
 1. Open the solution file (.sln).
 2. Build the project in Debug (x64)
 
-⚠️ If the hook do not works you should check if the address is good if you recompiled.
+⚠️ If the hook do not works you should check if the address is good if you recompiled else. you can test with test files in the Release section.
 
 ## 🧪 Demonstration :
 
