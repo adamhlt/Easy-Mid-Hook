@@ -21,6 +21,7 @@ The project include a test executable to see how it works.
 ## :rocket: Getting Started :
 
 [MS Detours](https://github.com/microsoft/Detours) is already setup and include in the project.
+
 This is a **x64 executable / DLL**, you can't compile this project in x86, we are using x64 assembly.
 
 ### Visual Studio :
