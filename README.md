@@ -20,12 +20,15 @@ The project include a test executable to see how it works.
 
 ## :rocket: Getting Started :
 
+[MS Detours](https://github.com/microsoft/Detours) is already setup and include in the project.
 This is a **x64 executable / DLL**, you can't compile this project in x86, we are using x64 assembly.
 
 ### Visual Studio :
 
 1. Open the solution file (.sln).
 2. Build the project in Debug (x64)
+
+⚠️ If the hook do not works you should check if the address is good if you recompiled.
 
 ## 🧪 Demonstration :
 
