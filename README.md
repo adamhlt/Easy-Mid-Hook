@@ -1,4 +1,4 @@
-![Project Banner](https://raw.githubusercontent.com/adamhlt/Easy-Code-Cave/main/Ressource/banner.png?token=GHSAT0AAAAAABT6O75KJZHPGGVBONN7LQY6YTSQ77Q)
+![Banner](https://user-images.githubusercontent.com/48086737/170093054-eab98c5a-f5ef-47e6-8eca-558d0484a8ce.png)
 
 # Easy Code Cave
 
