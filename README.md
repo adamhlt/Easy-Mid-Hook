@@ -1,12 +1,12 @@
 ![Banner](https://user-images.githubusercontent.com/48086737/170093054-eab98c5a-f5ef-47e6-8eca-558d0484a8ce.png)
 
-# Easy Code Cave
+# Easy Mid Hook
 
 [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/C%2B%2B) [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![x64](https://img.shields.io/badge/arch-x64-green.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/X64)
 
 ## :open_book: Project Overview :
 
-This template teach you and help you how to easily create x64 code cave in C++ using [MS Detours](https://github.com/microsoft/Detours) and seperate ASM file, since inline ASM is not available in x64.
+This template teach you and help you how to easily create x64 mid hook in C++ using [MS Detours](https://github.com/microsoft/Detours) and seperate ASM file, since inline ASM is not available in x64.
 
 The code cave permit to execute new instructions in the middle of a function, the hook will redirect the flow into our new code then jump back to the original function, this is very useful for game hacking.
 
