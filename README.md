@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/48086737/170093054-eab98c5a-f5ef-47e6-8eca-558d0484a8ce.png)
+![Project Banner](https://user-images.githubusercontent.com/48086737/178064575-e12e1a25-49db-4a93-898d-53f4f0571e37.png)
 
 # Easy Mid Hook
 
